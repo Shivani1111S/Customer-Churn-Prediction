@@ -1,0 +1,3 @@
+Model,Roc-AUC,F1(default 0.5 threshold)
+Logistic Regression,0.78,0.51
+XGBoost (tune),0.84,0.56

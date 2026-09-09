@@ -1,0 +1,12 @@
+,Mean | SHAP value|
+Age,1.2729511
+NumOfProducts,1.0215808
+Tenure,0.6335631
+IsActiveMember,0.5797627
+Balance,0.42750186
+Gender,0.33513337
+CreditScore,0.3254015
+EstimatedSalary,0.32466033
+Geography_Germany,0.27065212
+Geography_Spain,0.082528904
+HasCrCard,0.06543465
